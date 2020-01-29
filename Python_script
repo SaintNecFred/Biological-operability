@@ -13,7 +13,7 @@ os.chdir(r'C:\Users\fejoly\Documents\travail_sauvegarde\Models\Matrix')
 #####################
 discretization_coeff=1
 discretization_grid_state=2000
-discretization_grid_service=150
+discretization_grid_service=200
 Mixity_gain_factor=0.3
 
 
